@@ -6,7 +6,3 @@ read time
 
 
 
-echo "revision?"
-do
-print"done"
-done
